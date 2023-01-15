@@ -108,6 +108,11 @@ button:hover{
 
 }
 
+.quick-feature-right .box h3{
+    font-size:28px;
+    font-weight: 600;
+}
+
 .quick-feature-right .box {
     padding-top: 26%;
 }
