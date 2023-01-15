@@ -112,6 +112,12 @@ button:hover{
     font-size:28px;
     font-weight: 600;
 }
+.quick-feature-right .box .f{
+    font-size:28px;
+    font-weight: 600;
+    color: rgb(235, 119, 46);
+    
+}
 
 .quick-feature-right .box {
     padding-top: 26%;
